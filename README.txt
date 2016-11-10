@@ -1,0 +1,3 @@
+The file include/sol.hpp originates from https://github.com/ThePhD/sol2/tree/develop/single/sol/sol.hpp under the MIT licence (https://github.com/ThePhD/sol2/LICENSE.txt).
+
+The other files are from Lua (lua.org) from http://downloads.sourceforge.net/project/luabinaries/5.3.3/Tools%20Executables/lua-5.3.3_Win32_bin.zip?r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Fluabinaries%2Ffiles%2F5.3.3%2F&ts=1478795114&use_mirror=heanet under a MIT-license (http://www.lua.org/license.html).
